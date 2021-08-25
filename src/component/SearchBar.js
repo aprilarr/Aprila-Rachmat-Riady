@@ -2,7 +2,9 @@ import React from 'react';
 
 const SearchBar = () => 
 {
-    return <h2>SearchBar</h2>
+    return <div>
+        <input type="text" placeholder="Search" />
+    </div>;
 }
 
 export default SearchBar;

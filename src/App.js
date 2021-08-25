@@ -1,9 +1,13 @@
 import React from 'react';
+import SearchBar from './component/SearchBar';
+import Result from './component/Result';
 
 function App() {
   return (
-    <SearchBar/>
-    // <Result/>
+    <div>
+      <SearchBar/>
+      <Result/>
+    </div>
   );
 }
 
