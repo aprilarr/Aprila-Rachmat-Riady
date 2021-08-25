@@ -5,6 +5,7 @@ import Result from './component/Result';
 function App() {
   return (
     <div>
+      <h1>Repo Search</h1>
       <SearchBar/>
       <Result/>
     </div>

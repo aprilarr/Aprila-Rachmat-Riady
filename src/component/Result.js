@@ -2,7 +2,11 @@ import React from 'react';
 
 const Result = () => 
 {
-    return <h2>Result</h2>
+    return <div>
+        <ul>
+            <li>Repo List</li>
+        </ul>
+    </div>
 }
 
 export default Result;
