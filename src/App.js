@@ -1,13 +1,12 @@
 import React from 'react';
-import SearchBar from './component/SearchBar';
-import Result from './component/Result';
+import TampilRepo from './component/TampilRepo';
+
 
 function App() {
   return (
     <div>
-      <h1>Repo Search</h1>
-      <SearchBar/>
-      <Result/>
+      <h1>Repo Aprila Rahmat Riady</h1>
+      <TampilRepo/>
     </div>
   );
 }
